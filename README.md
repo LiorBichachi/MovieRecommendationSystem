@@ -1,1 +1,1 @@
-# ex5-lior.bichachi
+This program is a movie recommendation system that analyzes user preferences and recommends movies based on either content similarity or collaborative filtering. It includes a complete implementation in C++, handling various operations like adding movies, predicting scores, and generating recommendations.
